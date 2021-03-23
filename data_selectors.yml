@@ -1,0 +1,15 @@
+Title:
+    css: '#productTitle'
+    type: Text
+Price:
+    css: 'span.inlineBlock-display'
+    type: Text
+Rating_Average:
+    css: '#averageCustomerReviews span.a-icon-alt' 
+    type: Text
+Number_of_Reviews:
+    css: 'span#acrCustomerReviewText'
+    type: Text
+link_to_all_reviews:
+    css: 'div.card-padding a.a-link-emphasis'
+    type: Link
