@@ -1,0 +1,25 @@
+title_positive:
+    css: 'div.positive-review .review-title'
+    type: 'Text'
+title_negative:
+    css: 'div.critical-review .review-title'
+    type: 'Text'
+date_positive:
+    css: 'div.positive-review .review-date'
+    type: Text
+date_negative:
+    css: 'div.critical-review .review-date'
+    type: Text
+best_rw:
+    css: 'div.positive-review'
+    type: Text
+worst_rw:
+    css: 'div.critical-review'
+    type: Text
+review_votes_positive:
+    css: 'div.positive-review .review-votes'
+    type: Text
+review_votes_negative:
+    css: 'div.critical-review .review-votes'
+    type: Text
+
